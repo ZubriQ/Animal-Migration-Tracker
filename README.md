@@ -1,8 +1,8 @@
-# 🌐 SimbirSoft Web API in brief
-A RESTful API service for a centralized database of past records, facilitating multi-year experiments, animal migrations, and environmental tracking. Tested with a Docker image.
+# 🌐 Animal Migration Tracker
+A RESTful API service for a centralized database of records, facilitating multi-year experiments, animal migrations, and environmental tracking. Tested with a Docker image.
 
 # 📜 Legend
-Our company "Drip-Chip" is engaged in the chip-tracking of animals in the country "Wonderland" to monitor their movements and life cycles. Movement of animals on the planet is extremely important, including to protect them from extinction.
+Our company "Drip-Chip" is engaged in the chip-tracking of animals in the country "Wonderland" to monitor their movements and life cycles. The movement of animals on the planet is extremely important, including protecting them from extinction.
 
 This year, our company decided to create a unified base, where the records of previous years will be transferred, for conducting long-term experiments related to animal migrations, as well as for tracking changes in habitats and keeping a history.
 
